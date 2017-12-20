@@ -1,0 +1,6 @@
+---
+applications:
+- name: webapp
+  memory: 1GB
+  instances: 3
+  buildpack: php_buildpack
